@@ -3,7 +3,6 @@
 Este repositorio contiene **scripts en Python** para realizar búsquedas en Google y extraer posibles correos electrónicos de páginas web.  
 El proyecto está pensado **con fines educativos y de referencia**, no para uso en producción ni para envío de spam.  
 
-Este proyecto es estrictamente para uso educativo. 
 ---
 
 ## Flujo de trabajo
@@ -47,7 +46,10 @@ Este proyecto es estrictamente para uso educativo.
   ```bash
   pip install requests beautifulsoup4 googlesearch-python
 
-#IMPORTANTE:
-- Estos scripts son solo para aprendizaje.
+---
+
+# IMPORTANTE:
+
+- Estos scripts son solo para **aprendizaje**.
 - No usar para recolección masiva ni envío de spam.
 - Respeta siempre los Términos de servicio de Google y de los sitios que visites.
